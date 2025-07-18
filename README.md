@@ -63,13 +63,13 @@ README.md            # This file
 
 This project wasn't just about Python — it was about rebuilding discipline, confidence, and clarity. Logging moods felt like a small but symbolic act of taking ownership over time and self-awareness. It also helped refine CLI skills, string parsing, and input validation in a personal way.
 
-> _"Sometimes, the best tool you build is the one that understands you."_ — HonestGPT
+> _"Sometimes, the best tool you build is the one that understands you.” _ — Param
 
 ---
 
 ## ✅ Future Plans
 
-- Add support for mood tags (e.g. `--tags grateful,focused`)
+- Add support for mood tags (e.g. `--tags grateful, focused`)
 - Export filtered data to JSON or Markdown
 - Weekly mood summaries (analytics)
 - GUI version with Tkinter or Streamlit
