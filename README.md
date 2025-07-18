@@ -19,22 +19,22 @@ Built as part of a personal 12-week Python relearning journey — inspired by th
 
 ```bash
 # Log a mood
-python mood_logger.py --name honestgpt --mood happy
+python mood_logger_csv.py --name honestgpt --mood happy
 
 # View full mood history
-python mood_logger.py --view
+python mood_logger_csv.py --view
 
 # View frequency stats
-python mood_logger.py --stats
+python mood_logger_csv.py --stats
 
 # Filter logs by name and mood
-python mood_logger.py --filter --name pyaradox --mood happy
+python mood_logger_csv.py --filter --name pyaradox --mood happy
 
 # Filter by date (YYYY-MM-DD format)
-python mood_logger.py --filter --date 2025-07-11
+python mood_logger_csv.py --filter --date 2025-07-11
 
 # Combine filters
-python mood_logger.py --filter --name honestgpt --mood calm --date 2025-07-11
+python mood_logger_csv.py --filter --name honestgpt --mood calm --date 2025-07-11
 ```
 
 ---
